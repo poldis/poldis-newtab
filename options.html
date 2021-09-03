@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title>Options | PoldisNewTab</title>
+
+	<link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+
+	<link rel="stylesheet" type="text/css" href="/assets/css/options.css">
+</head>
+
+<body>
+	<div id="wrapper">
+		<div class="row">
+			<div class="col-lg-5">
+				Address (<code>URL</code>):
+			</div>
+			<div class="col-lg-7">
+				<input id="url" class="form-control" autocomplete="off">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-5">
+				Redirect:
+			</div>
+			<div class="col-lg-7">
+				<div class="switch">
+					<input id="change" type="checkbox" class="switch-input">
+					<label for="change" id="change-label" class="switch-label"></label>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-5">
+				Site Title:
+			</div>
+			<div class="col-lg-7">
+				<input id="title" class="form-control" autocomplete="off">
+			</div>
+		</div>
+		<br>
+		<div class="row">
+			<div class="col-lg-5"></div>
+			<div class="col-lg-7">
+				<button id="ok" class="btn btn-primary">Save</button>
+			</div>
+		</div>
+	</div>
+	<div id="credits">
+		<a href="https://github.com/poldis" target="_blank">GitHub</a>
+		<span class="dot">·</span>
+		Credits: <a href="https://antwhere.com" target="_blank">antwhere.com</a>
+	</div>
+	<div id="too-small">
+		<h1>This window is too small to show its contents!</h1>
+	</div>
+
+	<script src="/assets/js/options.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+{
+	"manifest_version": 2,
+	"name": "Poldis NewTab",
+	"description": "Fully customized new tab by Poldi",
+	"version": "1.5",
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"background": {
+		"page": "background.html"
+	},
+	"options_page": "options.html",
+	"options_ui": {
+		"page": "options.html",
+		"browser_style": true,
+		"open_in_tab": true
+	},
+	"icons": {
+		"16": "/assets/icons/icon-16.png",
+		"48": "/assets/icons/icon-48.png",
+		"128": "/assets/icons/icon-128.png"
+	},
+	"browser_action": {
+		"default_icon": {
+			"16": "/assets/icons/icon-16.png",
+			"48": "/assets/icons/icon-48.png"
+		},
+		"default_title": "Poldis NewTab"
+	}
+}
