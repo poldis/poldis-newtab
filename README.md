@@ -14,7 +14,7 @@ Check out [the webkul article](https://webkul.com/blog/how-to-install-the-unpack
 
 ## Screenshots
 Options:  
-![Screenshot1](https://i.ibb.co/hLqTCR1/image.png)
+![Screenshot1](https://i.ibb.co/2YWBXdx/image.png)
 
 ## Changelog
 _03/09/2021_ - Created "Poldis NewTab"  
