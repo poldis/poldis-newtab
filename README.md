@@ -12,6 +12,9 @@ You decide which wep page or local file gets shown (URL/Path)
 ## How to add it
 Check out [the webkul article](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/ "How to install unpacked extensions in Chrome") to see how to install **unpacked extension**s in Chrome.  
 
+## Screenshots
+Options:  
+![Screenshot1](https://i.ibb.co/hLqTCR1/image.png)
 
 ## Changelog
 _03/09/2021_ - Created "Poldis NewTab"  
