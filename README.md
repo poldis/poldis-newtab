@@ -1,5 +1,5 @@
 # Poldis NewTab
-Poldis NewTab is an extension for chrome which changes your [New Tab Page](chrome://newtab)  
+Poldis NewTab is an extension for Chrome that changes your new tab  
 You decide which wep page or local file gets shown (URL/Path)  
 
 
@@ -15,6 +15,7 @@ Check out [the webkul article](https://webkul.com/blog/how-to-install-the-unpack
 
 ## Changelog
 _03/09/2021_ - Created "Poldis NewTab"  
+_05/09/2021_ - Updated README.md  
 
 
 ## Credits
